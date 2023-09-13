@@ -6,10 +6,7 @@ const About = () => {
       <div className="max-w-md p-6 bg-white rounded-lg shadow-lg">
         <h1 className="text-3xl font-semibold mb-4">About Shopping Cart</h1>
         <p className="text-gray-700">
-          The "Shopping Cart" project is a showcase of modern web development
-          techniques built using React and TypeScript. It serves as a
-          demonstration of a fully functional shopping cart application that
-          utilizes a global store managed through context.
+          The Shopping Cart project is a showcase of modern web development techniques built using React and TypeScript. This serves as a demonstration of a partially functional add-to-cart shopping cart application that uses a context-managed global store.
         </p>
         <p className="text-gray-700 mt-2">
           This project is designed to illustrate best practices in React
