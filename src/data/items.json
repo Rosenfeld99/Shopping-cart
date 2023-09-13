@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Pouch wh",
+    "price": 10.99,
+    "imgUrl": "/images/pouch-white.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pouch ",
+    "price": 1.199,
+    "imgUrl": "/images/pouch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pencil",
+    "price": 1.05,
+    "imgUrl": "/images/pencil.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Scissors",
+    "price": 16.99,
+    "imgUrl": "/images/scissors.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bag",
+    "price": 400.99,
+    "imgUrl": "/images/Bag.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bottel",
+    "price": 20.99,
+    "imgUrl": "/images/bottel.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Satchel",
+    "price": 70.99,
+    "imgUrl": "/images/satchel.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sheert",
+    "price": 50.99,
+    "imgUrl": "/images/sheert.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Basket",
+    "price": 60.99,
+    "imgUrl": "/images/basket.jpg"
+  }
+]
